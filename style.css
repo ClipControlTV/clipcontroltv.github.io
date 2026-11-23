@@ -1,0 +1,10 @@
+body { margin: 0; font-family: system-ui, -apple-system, "Segoe UI", Arial, sans-serif; background: #120e28; color: #ece9f6; line-height: 1.6; }
+main { max-width: 720px; margin: 0 auto; padding: 40px 20px 60px; }
+header { display: flex; align-items: center; gap: 16px; margin-bottom: 24px; }
+header img { width: 72px; height: 72px; border-radius: 50%; }
+h1 { margin: 0; font-size: 2rem; }
+h2 { margin-top: 2rem; color: #3df2b0; font-size: 1.2rem; }
+a { color: #3df2b0; }
+nav { margin: 8px 0 24px; }
+nav a { margin-right: 18px; }
+footer { margin-top: 48px; font-size: 0.9rem; color: #a9a3c4; }
